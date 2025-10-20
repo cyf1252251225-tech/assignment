@@ -11,7 +11,7 @@ int main()
     do
     {
         printf("Input a number(>0): ");
-        scanf("%d", &number); // ✅ 改这里
+        scanf("%d", &number);
 
         if (number < 0)
         {
