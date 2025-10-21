@@ -2,9 +2,9 @@
 int main()
 {
     int n;
-    int product=1;
+    int product = 1;
     scanf("%d",&n);
-    for(int i=1;i <= n;i++)
+    for(int i = 1;i <= n;i++)
     {
         product *= i;
     }
